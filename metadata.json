@@ -1,0 +1,7 @@
+{
+  "name": "C5 NextGen-AI",
+  "description": "A multi-layer AI learning companion that adapts to your cognitive level, builds long-term knowledge, and acts as a research partner.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
